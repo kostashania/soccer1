@@ -1,0 +1,226 @@
+{
+  "firstLayout": "",
+  "gdVersion": {
+    "build": 231,
+    "major": 5,
+    "minor": 5,
+    "revision": 0
+  },
+  "properties": {
+    "adaptGameResolutionAtRuntime": true,
+    "antialiasingMode": "MSAA",
+    "antialisingEnabledOnMobile": false,
+    "folderProject": true,
+    "orientation": "landscape",
+    "packageName": "com.example.gamename",
+    "pixelsRounding": true,
+    "projectUuid": "366b1431-3fa1-4dbc-a03b-d9fe4ff5dc0b",
+    "scaleMode": "nearest",
+    "sizeOnStartupMode": "adaptWidth",
+    "templateSlug": "",
+    "version": "1.0.0",
+    "name": "Soccer1",
+    "description": "",
+    "author": "",
+    "windowWidth": 1280,
+    "windowHeight": 720,
+    "latestCompilationDirectory": "",
+    "maxFPS": 60,
+    "minFPS": 20,
+    "verticalSync": false,
+    "platformSpecificAssets": {
+      "android-icon-144": "",
+      "android-icon-192": "",
+      "android-icon-36": "",
+      "android-icon-48": "",
+      "android-icon-72": "",
+      "android-icon-96": "",
+      "android-windowSplashScreenAnimatedIcon": "",
+      "desktop-icon-512": "",
+      "ios-icon-100": "",
+      "ios-icon-1024": "",
+      "ios-icon-114": "",
+      "ios-icon-120": "",
+      "ios-icon-144": "",
+      "ios-icon-152": "",
+      "ios-icon-167": "",
+      "ios-icon-180": "",
+      "ios-icon-20": "",
+      "ios-icon-29": "",
+      "ios-icon-40": "",
+      "ios-icon-50": "",
+      "ios-icon-57": "",
+      "ios-icon-58": "",
+      "ios-icon-60": "",
+      "ios-icon-72": "",
+      "ios-icon-76": "",
+      "ios-icon-80": "",
+      "ios-icon-87": ""
+    },
+    "loadingScreen": {
+      "backgroundColor": 0,
+      "backgroundFadeInDuration": 0.2,
+      "backgroundImageResourceName": "",
+      "gdevelopLogoStyle": "light",
+      "logoAndProgressFadeInDuration": 0.2,
+      "logoAndProgressLogoFadeInDelay": 0,
+      "minDuration": 1.5,
+      "progressBarColor": 16777215,
+      "progressBarHeight": 20,
+      "progressBarMaxWidth": 200,
+      "progressBarMinWidth": 40,
+      "progressBarWidthPercent": 30,
+      "showGDevelopSplash": true,
+      "showProgressBar": true
+    },
+    "watermark": {
+      "placement": "bottom-left",
+      "showWatermark": true
+    },
+    "authorIds": [],
+    "authorUsernames": [],
+    "categories": [],
+    "playableDevices": [],
+    "extensionProperties": [],
+    "platforms": [
+      {
+        "name": "GDevelop JS platform"
+      }
+    ],
+    "currentPlatform": "GDevelop JS platform"
+  },
+  "resources": {
+    "resources": [
+      {
+        "file": "assets/10600327_41290.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "10600327_41290.jpg",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/ff18f8626b36f96c2acac5e7abec568d7105f7cdf91275e5bb3a581fe66b9c9e-10600327_41290.jpg",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/btn_title_speed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn_title_speed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/6bc1362a8c1c6797a54981bbe1e51ec3691d62b60a1bee314a1bbecdc15c574e-btn_title_speed.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/btn_minus.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn_minus.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/f9c1fbb6f2dc4e89b8ff5a17b6baefdd82a0732cb069e5b8434d3ed1b6bada9b-btn_minus.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/btn_plus.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn_plus.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/c70396c322981858bbebd3c01cf40170613855b4c205765fdbf9ab7a3f53186c-btn_plus.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/btn_bar1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn_bar1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/3e4095e1e42006025a952e6a322fc5d2084a3f51f6a1ba35436719aac3f87dba-btn_bar1.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/btn_bar2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn_bar2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/d7478a14cb908d7ad14edbf2ad1f27da2fb75e57c58858542b9fe87d5ffc715b-btn_bar2.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/btn_bar3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn_bar3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/b4c3347a15b00079fd799d0089953d3f130ffb72649bf4a2aa0ea8e8817a7461-btn_bar3.png",
+          "name": "cloud-project-resource"
+        }
+      },
+      {
+        "file": "assets/btn_bar4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "btn_bar4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://project-resources.gdevelop.io/b3ac2d4e-5d9a-4ad0-aac4-f0b89e932f75/resources/5e797ceced8132414fd13e04d7302101f695b1ebffc4f84afa4b340b6877f58c-btn_bar4.png",
+          "name": "cloud-project-resource"
+        }
+      }
+    ],
+    "resourceFolders": []
+  },
+  "objects": [],
+  "objectsFolderStructure": {
+    "folderName": "__ROOT"
+  },
+  "objectsGroups": [],
+  "variables": [
+    {
+      "name": "gameSpeed",
+      "type": "number",
+      "value": 1
+    }
+  ],
+  "layouts": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/mainmenu"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/match"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/teammanagement"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/options"
+    }
+  ],
+  "externalEvents": [],
+  "eventsFunctionsExtensions": [],
+  "externalLayouts": []
+}
